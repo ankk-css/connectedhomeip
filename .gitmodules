@@ -330,3 +330,7 @@
 	branch = matter_support
 	platforms = infineon
 
+[submodule "p6/emeeprom"]
+	path = third_party/infineon/psoc6/psoc6_sdk/libs/emeeprom
+	url = https://github.com/Infineon/emeeprom.git
+	platforms = infineon
